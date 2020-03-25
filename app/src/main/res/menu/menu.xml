@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/bt_open"
+        android:title="@string/bt_open"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/bt_stop"
+        android:title="@string/bt_stop"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/bt_find"
+        android:title="@string/bt_find"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/bt_find_bonded"
+        android:title="@string/bt_find_bonded"
+        app:showAsAction="never"/>
+
+</menu>

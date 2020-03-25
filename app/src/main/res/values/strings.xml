@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlueTooth</string>
+    <string name="bt_open">打开蓝牙</string>
+    <string name="bt_stop">关闭蓝牙</string>
+    <string name="bt_find">搜索蓝牙设备</string>
+    <string name="bt_find_bonded">查看绑定设备</string>
+    <string name="bt_send">发送</string>
+</resources>
